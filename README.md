@@ -14,7 +14,7 @@ Aplicación Traffic Monitor para controador RyU. Se realizaron optimizaciones pa
 
 4) Aplicar politicas de QoS para estipular canales de 100 Mbps. Para ello ejecutar el script Script_MINPRO_QoS.sh
 
-#Pruebas de BANDWIDTH
+# Pruebas de BANDWIDTH
 
 Para simular estas pruebas se puede hacer mediante iperf.
 
