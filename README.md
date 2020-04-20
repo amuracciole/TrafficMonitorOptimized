@@ -1,4 +1,4 @@
-## TrafficMonitorOptimized
+# TrafficMonitorOptimized
 
 Trabajo final para la asignatura Miniproyectos - Universidad Politécnica de Madrid (ETSIT)
 
@@ -14,7 +14,7 @@ Aplicación Traffic Monitor para controador RyU. Se realizaron optimizaciones pa
 
 4) Aplicar politicas de QoS para estipular canales de 100 Mbps. Para ello ejecutar el script Script_MINPRO_QoS.sh
 
-# Pruebas de BANDWIDTH
+## Pruebas de BANDWIDTH
 
 Para simular estas pruebas se puede hacer mediante iperf.
 
@@ -23,3 +23,7 @@ En H2: "iperf -s -i 1 -u"
 En H1: "iperf -c 10.1.2.3 -i 1 -u -b 50000000"
 
 Para simular 2 iperf de 50 Mbps en sumultaneo desde H1: "iperf -c 10.1.2.3 -i 1 -u -b -P 2"
+
+## Pruebas Packet Loss y Delay
+
+Este codigo no tiene implementado estos cálculos pero en el archivo Memoria se encuentra el teórico del mismo.
