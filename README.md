@@ -8,7 +8,7 @@ Aplicación Traffic Monitor para controador RyU. Se realizaron optimizaciones pa
 
 1) Levantar el escenario mediante el script Script_MINPRO_ON.sh
 
-[Escenario](https://github.com/amuracciole/TrafficMonitorOptimized/blob/master/Escenario.png)
+![Escenario](https://github.com/amuracciole/TrafficMonitorOptimized/blob/master/Escenario.png)
 
 2) En caso de que seaa la primera vez que se debe correr el script Script_MINPRO_newscenario.sh para generar el archivo Script_MINPRO_newscenario.py
 
@@ -18,7 +18,7 @@ Aplicación Traffic Monitor para controador RyU. Se realizaron optimizaciones pa
 
 ## Pruebas de BANDWIDTH
 
-[Captura](https://github.com/amuracciole/TrafficMonitorOptimized/blob/master/Captura.png)
+![Captura](https://github.com/amuracciole/TrafficMonitorOptimized/blob/master/Captura.png)
 
 Para simular estas pruebas se puede hacer mediante iperf.
 
